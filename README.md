@@ -1,2 +1,2 @@
 # Weather-App-JS
-Weather App w/ HTML/CSS/JavaScript
+Weather App created with HTML/CSS/JavaScript & OpenWeather API
